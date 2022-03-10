@@ -1,0 +1,2776 @@
+[
+  {
+    "cars_name": "Mercedes",
+    "country": "Almanya",
+    "k_year": 1920,
+    "model": [
+      {
+        "model_adi": "a serisi",
+        "fiyat": 15000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "c serisi",
+        "fiyat": 25000,
+        "benzinli": false
+      }
+    ]
+  },
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "cars_name": "Mercedes",
+    "country": "Almanya",
+    "k_year": 1920,
+    "model": [
+      {
+        "model_adi": "a serisi",
+        "fiyat": 15000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "c serisi",
+        "fiyat": 25000,
+        "benzinli": false
+      }
+    ]
+  },
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  },  {
+  "cars_name": "Mercedes",
+  "country": "Almanya",
+  "k_year": 1920,
+  "model": [
+    {
+      "model_adi": "a serisi",
+      "fiyat": 15000,
+      "benzinli": true
+    },
+    {
+      "model_adi": "c serisi",
+      "fiyat": 25000,
+      "benzinli": false
+    }
+  ]
+},
+  {
+    "cars_name": "Honda",
+    "country": "Japonya",
+    "k_year": 1940,
+    "model": [
+      {
+        "model_adi": "civic",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "jazz",
+        "fiyat": 15000,
+        "benzinli": true
+      }
+    ]
+  }
+]
